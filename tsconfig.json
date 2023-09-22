@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "outDir": "dist",
-    "watch": true
+    "target": "ES6",
+    "outDir": "dist"
   }
 }
